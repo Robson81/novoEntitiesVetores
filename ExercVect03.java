@@ -5,7 +5,6 @@ public class ExercVect03 {
 	private String name;
 	private int age;
 	private double height;
-	private double averageHeight;
 	int percentage;
 	
 	public ExercVect03() {
