@@ -12,7 +12,10 @@ public class Employees {
 		this.salary = salary;
 		this.id = id;
 	}
-
+	public Employees(int id) {
+		
+		this.id = id;
+	}
 	public String getName() {
 		return name;
 	}
